@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pynostr-cli"
-version = "0.1.1"
+version = "0.1.2"
 description = "CLI tool for interacting with the Nostr Protocol"
 authors = [
   "Kenneth Curtis <kacurtis1616@gmail.com>"

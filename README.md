@@ -11,3 +11,5 @@ For more information, visit https://github.com/nostr-protocol/nostr
 # Get started
 
 `pip install pynostr-cli`
+
+`pynostr --help`
