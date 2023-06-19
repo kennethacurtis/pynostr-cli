@@ -1,0 +1,9 @@
+# Poetry
+# Cache directory
+.pypoetry/
+
+# Virtual environment
+.venv/
+
+# Editor/IDE
+.vscode/

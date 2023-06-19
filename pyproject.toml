@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pynostr-cli"
+version = "0.1.0"
+description = "CLI tool for interacting with the Nostr Protocol"
+authors = [
+  "Kenneth Curtis <kacurtis1616@gmail.com>"
+  ]
+readme = "README.md"
+packages = [{ include = "pynostr_cli" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+click = "^8.1.3"
+cryptography = "^41.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
